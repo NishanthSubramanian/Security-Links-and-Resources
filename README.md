@@ -5,3 +5,4 @@ Bunch of useful Cyber Security related links and resources compiled in the proce
 Use | Link
 ------------ | -------------
 Stack Smashing | https://insecure.org/stf/smashstack.html
+x86 Cheat Sheet| https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
