@@ -1,4 +1,4 @@
-# Security-Useful-Links
+# Security-Links-and-Resources
 Bunch of useful Cyber Security related links and resources compiled in the process of learning
 
 
