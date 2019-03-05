@@ -10,3 +10,4 @@ Stack frame layout on x86-64 | https://eli.thegreenplace.net/2011/09/06/stack-fr
 Trojan free?| https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
 XSS Persistent Try->| http://infinityexists.com/wp-login.php?checkemail=registered
 Shadow passwords| https://null-byte.wonderhowto.com/how-to/crack-shadow-hashes-after-getting-root-linux-system-0186386/
+Identify ciphers | http://practicalcryptography.com/cryptanalysis/text-characterisation/identifying-unknown-ciphers/
