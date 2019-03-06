@@ -12,3 +12,4 @@ XSS Persistent Try->| http://infinityexists.com/wp-login.php?checkemail=register
 Shadow passwords (John the Ripper)| https://null-byte.wonderhowto.com/how-to/crack-shadow-hashes-after-getting-root-linux-system-0186386/
 Identify ciphers | http://practicalcryptography.com/cryptanalysis/text-characterisation/identifying-unknown-ciphers/
 UXSS bug in Chrome| https://bugs.chromium.org/p/chromium/issues/detail?id=841105
+Java decompiler | http://java-decompiler.github.io/
