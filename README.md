@@ -13,3 +13,4 @@ Shadow passwords (John the Ripper)| https://null-byte.wonderhowto.com/how-to/cra
 Identify ciphers | http://practicalcryptography.com/cryptanalysis/text-characterisation/identifying-unknown-ciphers/
 UXSS bug in Chrome| https://bugs.chromium.org/p/chromium/issues/detail?id=841105
 Java decompiler | http://java-decompiler.github.io/
+Common Vulnerabilities | https://cve.mitre.org/
