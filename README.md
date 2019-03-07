@@ -14,3 +14,4 @@ Identify ciphers | http://practicalcryptography.com/cryptanalysis/text-character
 UXSS bug in Chrome| https://bugs.chromium.org/p/chromium/issues/detail?id=841105
 Java decompiler | http://java-decompiler.github.io/
 Common Vulnerabilities | https://cve.mitre.org/
+SlowLoris Attack Code | https://github.com/adrianchifor/pyslowloris
