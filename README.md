@@ -2,7 +2,7 @@
 Bunch of useful Cyber Security related links and resources compiled in the process of learning
 
 
-Use | Link
+Title | Link
 ------------ | -------------
 Stack Smashing | https://insecure.org/stf/smashstack.html
 x86 Cheat Sheet| https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
@@ -15,3 +15,4 @@ UXSS bug in Chrome| https://bugs.chromium.org/p/chromium/issues/detail?id=841105
 Java decompiler | http://java-decompiler.github.io/
 Common Vulnerabilities | https://cve.mitre.org/
 SlowLoris Attack Code | https://github.com/adrianchifor/pyslowloris
+Linux tool for analysing binary files | https://tools.kali.org/forensics/binwalk
