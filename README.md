@@ -19,3 +19,4 @@ Linux tool for analysing binary files | https://tools.kali.org/forensics/binwalk
 Zlib data header | https://stackoverflow.com/questions/9050260/what-does-a-zlib-header-look-like 
 Upx for decompressing binaries | https://linux.die.net/man/1/upx
 GDB | http://visualgdb.com/gdbreference/commands/
+Global Offset Table and Procedure Linkage Table | https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
