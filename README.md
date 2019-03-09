@@ -16,3 +16,4 @@ Java decompiler | http://java-decompiler.github.io/
 Common Vulnerabilities | https://cve.mitre.org/
 SlowLoris Attack Code | https://github.com/adrianchifor/pyslowloris
 Linux tool for analysing binary files | https://tools.kali.org/forensics/binwalk
+Zlib data header | https://stackoverflow.com/questions/9050260/what-does-a-zlib-header-look-like 
