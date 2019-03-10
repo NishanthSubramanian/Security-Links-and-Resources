@@ -20,3 +20,6 @@ Zlib data header | https://stackoverflow.com/questions/9050260/what-does-a-zlib-
 Upx for decompressing binaries | https://linux.die.net/man/1/upx
 GDB | http://visualgdb.com/gdbreference/commands/
 Global Offset Table and Procedure Linkage Table | https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
+ShellShock | https://www.symantec.com/connect/blogs/shellshock-all-you-need-know-about-bash-bug-vulnerability
+Steganography tool | https://github.com/zed-0xff/zsteg
+Crawlers | https://support.google.com/webmasters/answer/1061943?hl=en
