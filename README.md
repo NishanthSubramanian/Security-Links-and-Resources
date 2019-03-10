@@ -23,3 +23,4 @@ Global Offset Table and Procedure Linkage Table | https://systemoverlord.com/201
 ShellShock | https://www.symantec.com/connect/blogs/shellshock-all-you-need-know-about-bash-bug-vulnerability
 Steganography tool | https://github.com/zed-0xff/zsteg
 Crawlers | https://support.google.com/webmasters/answer/1061943?hl=en
+Brute force cipher | https://quipqiup.com/
