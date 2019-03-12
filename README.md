@@ -24,3 +24,4 @@ ShellShock | https://www.symantec.com/connect/blogs/shellshock-all-you-need-know
 Steganography tool | https://github.com/zed-0xff/zsteg
 Crawlers | https://support.google.com/webmasters/answer/1061943?hl=en
 Brute force substitution cipher | https://quipqiup.com/
+Ext2 | http://www.nongnu.org/ext2-doc/ext2.html#S-MAGIC
