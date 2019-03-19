@@ -28,3 +28,4 @@ Ext2 | http://www.nongnu.org/ext2-doc/ext2.html#S-MAGIC
 Format String exploit | https://www.youtube.com/watch?v=0WvrSfcdq1I 
 Exploits! | https://exploit.education/
 gdb hook | https://sourceware.org/gdb/onlinedocs/gdb/Hooks.html
+Weak Rsa breaker | https://github.com/Ganapati/RsaCtfTool
